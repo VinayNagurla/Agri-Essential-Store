@@ -1,5 +1,5 @@
 # Agri-Essential Store(E-Commerce website)
-This is an E-Commerce Website build for selling of all Agriculture products online.
+This is an e-commerce website built for selling all agricultural products online.
 
 ### About
 
